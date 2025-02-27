@@ -1,2 +1,2 @@
 # portfolio
-In this project, I want to build my portfolio.
+In this project, I want to build my Portfolio.
